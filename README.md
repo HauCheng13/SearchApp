@@ -1,6 +1,6 @@
 # Creature Search App
 
-**GitHub Page**:
+**GitHub Page**: https://haucheng13.github.io/SearchApp/
 
 Creature Search App using API.  
 
